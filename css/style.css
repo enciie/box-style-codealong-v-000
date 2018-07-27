@@ -100,7 +100,7 @@ background: linear-gradient(
 filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#efefef", endColorstr="#dddddd", GradientType=0); /* IE6-9 */
 }
 
-.medium0fade{
+.medium-fade{
 /* MEDIUM-FADE */
 
 background: rgb(229, 229, 229); /* Old browsers */
