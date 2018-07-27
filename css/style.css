@@ -238,8 +238,10 @@ header {
   padding: 22px 0;
   text-transform: uppercase;
   color: black;
-  tex-align: center;
+  text-align: center;
   border-right: 1px solid #ccc;
+  text-decoration: none;
+  font: 1em, "trebuchet MS", Arial, sans-serif;
 }
 
 
