@@ -244,6 +244,11 @@ header {
   font: 1em, "trebuchet MS", Arial, sans-serif;
 }
 
+#navbar nav a.selected {
+  background: #333;
+  color: white;
+}
+
 
 /* NAVBAR-HOVER */
 background: rgb(0, 0, 0); /* Old browsers */
